@@ -1,5 +1,5 @@
 name: Terraform CI/CD with Auto Teardown
-
+ 
 on:
   push:
     branches: [ "main" ]
